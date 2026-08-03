@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Ears Dog",
+  "description": "An arcade game where a dog flies through obstacles by flapping its giant ears.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
